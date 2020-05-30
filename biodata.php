@@ -76,7 +76,7 @@ if(isset($_POST['submit'])){
 		</style>
 </head>
 <body>
-<h3>BIODATA</h3>
+<h3>BIODATA DIRI</h3>
 <form action="biodata.php" method="POST">
 
 	
